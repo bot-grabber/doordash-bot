@@ -83,7 +83,7 @@ In competitive markets, speed matters. A **doordash bot** (or **doordash bot gra
 - doordash order grabber  
 
 For updates and latest releases:  
-👉 https://botgrabber.com/doordash  
+👉 https://botgrabber.com/doordash-bot  
 
 ---
 
