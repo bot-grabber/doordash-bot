@@ -41,7 +41,7 @@ The **DoorDash Bot** operates through a dedicated Android app available for free
 Simply install the app, configure your filters (payout, distance, order type), and let the **doordash bot** automatically accept orders for you.
 
 👉 **Start using the DoorDash Bot here:**  
-https://botgrabber.com/doordash  
+https://botgrabber.com/doordash-bot  
 
 ---
 
